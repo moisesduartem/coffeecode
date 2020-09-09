@@ -1,6 +1,6 @@
 # Não ignora coffeecode/datalayer, pois nele há uma alteração
-vendor/coffeecode/router
-vendor/composer
-vendor/autoload.php
+router
+composer
+autoload.php
 
-source/Config.php
+Config.php
