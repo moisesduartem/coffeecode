@@ -1,1 +1,4 @@
-vendor
+# Não ignora coffeecode/datalayer, pois nele há uma alteração
+vendor/coffeecode/router
+vendor/composer
+vendor/autoload.php
